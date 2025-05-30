@@ -7,7 +7,7 @@ Compressed 15 - A compresed  version of item 15.
 README.md - This file you're reading.
 Othe experiments and personal projects.                                                                                                                                  
 # PURPOSE #
-Thia repo servers as a portfolio and a sandbox for learning and practising:
+This repo servers as a portfolio and a sandbox for learning and practising:
 HTML, CSS and JavaScript
 Version control with Git and Github
 Project structure and document                                                                                                                                                  1
