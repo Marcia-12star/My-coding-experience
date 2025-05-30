@@ -1,0 +1,1 @@
+This file contains all the project I've made during the FNA App Academy 2025 which took 9weeks to complete. As bigginer this was an exciting experince and a learning curve, great things are yet to come.
